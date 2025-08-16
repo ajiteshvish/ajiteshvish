@@ -19,12 +19,8 @@
 <!--   JUNE -->
 <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="jyot" height="200" width="200" /></a>
 <!-- JULY -->
-<a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/badge-background.png" alt="jyot" height="200" width="200" /></a>
-
-
-
+<a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="jyot" height="200" width="200" /></a>
   
-  <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   

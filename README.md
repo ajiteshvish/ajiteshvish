@@ -9,12 +9,21 @@
 <!--   JAN -->
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="jyot" height="200" width="200" /></a>
 <!--   FEB -->
-  <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="jyot" height="200" width="200" /></a>
 <!--   MARCH -->
-  <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="jyot" height="200" width="200" /></a>
 <!--   APRIL -->
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="200" width="200" /></a>
 <!--   MAY -->
+  <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="jyot" height="200" width="200" /></a>
+<!--   JUNE -->
+<a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="jyot" height="200" width="200" /></a>
+<!-- JULY -->
+<a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/badge-background.png" alt="jyot" height="200" width="200" /></a>
+
+
+
+  
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">

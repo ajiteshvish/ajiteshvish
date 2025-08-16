@@ -1,4 +1,10 @@
 <div align="center"> 
+<h1 align="center">Hi 👋, I'm Ajitesh Vishwakarma</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+- 👨‍💻 All of my projects are available at [ajiteshvishwakarma.vercel.app](ajiteshvishwakarma.vercel.app)
+
+- 📫 How to reach me **ajiteshvish48@gmail.com**
   
 <!--   <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />

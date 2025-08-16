@@ -1,12 +1,11 @@
 <div align="center">
   <!-- Animated Gradient Banner (SVG) -->
-  <img src="https://svgur.com/i/ubz.svg" height="120" alt="Animated Gradient Banner"/>
+<!--   <img src="https://svgur.com/i/ubz.svg" height="120" alt="Animated Gradient Banner"/> -->
 
   <h1 align="center">
     <span style="background: linear-gradient(90deg,#ff8a00,#e52e71,#00ff99,#00d2ff); background-size: 200% auto; color: transparent; background-clip: text; -webkit-background-clip: text; animation: gradientText 10s ease infinite;">Hi 👋, I'm Ajitesh Vishwakarma</span>
   </h1>
-  <h3 align="center">A passionate <span style="color:#00d2ff;font-weight:bold;">frontend & web3 developer</span> from India 🇮🇳</h3>
-  <img src="https://raw.githubusercontent.com/ajiteshvish/ajiteshvish/main/assets/web3-anim.gif" width="220" alt="Web3 Animation"/>
+  <h3 align="center">A passionate <span style="color:#00d2ff;font-weight:bold;">frontend & web3 developer</span> from India</h3>
 </div>
 
 <style>

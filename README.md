@@ -5,34 +5,20 @@
 </div> -->
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-<!--   200 DAYS CODE  -->
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="jyot" height="200" width="200" /></a>
-<!--   JAN -->
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" alt="jyot" height="200" width="200" /></a>
-<!--   FEB -->
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="jyot" height="200" width="200" /></a>
-<!--   MARCH -->
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="jyot" height="200" width="200" /></a>
-<!--   APRIL -->
-  
-<!--   MAY -->
   <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202505.gif" alt="jyot" height="200" width="200" /></a>
-<!--   JUNE -->
 <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" alt="jyot" height="200" width="200" /></a>
-<!-- JULY -->
 <a href="https://leetcode.com/u/AjiteshVishwakarma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" alt="jyot" height="200" width="200" /></a>
-  
 </p>
 <p align="center">
-  
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AjiteshVishwakarma?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-
-
-
 
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>

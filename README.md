@@ -94,7 +94,17 @@ Technical Team - E-Cell LNCTE
 
 # 📊 Coding Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ajiteshvishwakarma?theme=dark&font=Hanuman&ext=heatmap)
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/ajiteshvishwakarma?theme=dark&font=Hanuman&ext=heatmap" />
+
+<!-- <br><br>
+
+<a href="https://www.geeksforgeeks.org/profile/ajiteshvish">
+  [![Ajitesh's GeeksforGeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=ajiteshvish)](https://www.geeksforgeeks.org/profile/ajiteshvish)
+</a> -->
+
+</p>
 
 ---
 

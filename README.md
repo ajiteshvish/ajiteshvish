@@ -15,7 +15,7 @@ Technical Team - E-Cell LNCTE
 
 - 🎓 B.Tech CSE (AI/ML) Student  
 - 💻 Passionate about **Web Development, App Development & Problem Solving**  
-- 🔥 Solving **DSA problems consistently for 480+ days**  
+- 🔥 Solving **DSA problems consistently for 500+ days**  
 - 🧠 Active coder on **LeetCode, GeeksforGeeks & X (Twitter)**  
 - 🚀 Love building **real-world projects and scalable applications**
 

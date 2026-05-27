@@ -2,7 +2,6 @@
 <h3 align="center">
 SIH Grand Finalist ’25 | SDE Intern @iSoftwareLab | BNB Chain IIT Delhi |
 Ex - App Dev Intern @KisanOne | 500+ Days DSA | 160+ Days DSA on X |
-Technical Team - E-Cell LNCTE
 </h3>
 
 <p align="center">

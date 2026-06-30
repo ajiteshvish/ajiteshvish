@@ -26,7 +26,7 @@ Ex - App Dev Intern @KisanOne | 500+ Days DSA | 160+ Days DSA on X |
   **https://ajiteshvishwakarma.vercel.app**
 
 - 📄 Resume:  
-  **https://ajiteshresume.tiiny.site**
+  **[https://ajiteshresume.tiiny.site](https://ajiteshvishwakarma.tiiny.site)**
 
 - 📫 Email:  
   **ajiteshvish48@gmail.com**

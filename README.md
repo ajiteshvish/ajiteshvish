@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajitesh Vishwakarma</h1>
 <h3 align="center">
-SIH Grand Finalist ’25 | SDE Intern @iSoftwareLab | BNB Chain IIT Delhi |
-Ex - App Dev Intern @KisanOne | 500+ Days DSA | 160+ Days DSA on X |
+SIH Grand Finalist ’25 | SDE Intern at @iSoftwareLab | BNB CHAIN IITD | Ex - App Dev Intern @Kisan One | Full Stack Developer @MapzoAI | 600+ Days DSA | 160+ Days DSA on X | 
 </h3>
 
 <p align="center">
